@@ -16,7 +16,7 @@ This project:
 ---
 
  Live Demo
-[Click here to open the Fraud Detection App](https://your-streamlit-app-link.streamlit.app)  
+[Click here to open the Fraud Detection App]https://fraud-detection-app-ytbafzfkzlfzkqmv3jggjv.streamlit.app/)  
 
 *(Note: Replace this link with your deployed Streamlit app URL once you deploy to Streamlit Cloud. For now you can run locally — see instructions below.)*
 
